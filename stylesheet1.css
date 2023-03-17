@@ -76,7 +76,6 @@ h2 {
   transform: translateY(100px);
   z-index: 2;
   font-size: 60px;
-  color: rgb(6, 66, 6);
   color: transparent;
   background: linear-gradient(90deg,#6AE861,#077D49);
   -webkit-background-clip: text;
